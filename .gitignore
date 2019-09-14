@@ -1,0 +1,4 @@
+# Project exclude paths
+/nifi-queue-nar/target/
+/nifi-queue-processors/target/
+/target/
